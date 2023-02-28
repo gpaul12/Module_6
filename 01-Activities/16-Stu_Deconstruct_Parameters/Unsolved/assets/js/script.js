@@ -9,3 +9,7 @@ fetch(
     console.log(data);
   });
 // Parameter explanation.
+// per_page: The number of results per page
+// state: Indicates the state of the issues to return.
+// sort: What to sort results by.
+// direction: The direction to sort the results by.
